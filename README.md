@@ -3,4 +3,4 @@ HelloWorld
 
 My First repository on GitHub
 
-f u ..
+I love :coffee:,:pizza:, and :dancer:.
